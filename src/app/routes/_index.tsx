@@ -14,7 +14,7 @@ export const meta: MetaFunction = () => {
 export default function Index() {
   return (
     <div className="flex h-screen items-center justify-center bg-foreground">
-      <h1 className="text-3xl font-bold text-background">shadcn works!</h1>
+      <h1 className="text-3xl font-bold text-background">Coming Soon!</h1>
     </div>
   )
 }
